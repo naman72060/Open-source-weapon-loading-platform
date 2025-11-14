@@ -60,11 +60,5 @@ Security and safety notice
 Maintainers & contact
 - Maintainer: repository owner (see the GitHub repository page for contact options). Open issues for questions, bug reports, or change proposals.
 
-Next steps you might want me to do
-- Add `README.md` files inside the three main folders with per-folder specifics.
-- Add a `.gitignore` and a minimal `.gitattributes` to normalize line endings and reduce accidental binary commits.
-- Add a short script or template for inserting SPDX/MIT headers into text files (optional).
 
----
-If you'd like, I can apply one of the next steps now — tell me which and I will proceed.
 
